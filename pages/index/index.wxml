@@ -1,3 +1,2 @@
 <!--index.wxml-->
 <view class="box"  bindtap="bofang">推荐歌单</view>
-<view class="box"  bindtap="bofang">推荐歌单</view>
